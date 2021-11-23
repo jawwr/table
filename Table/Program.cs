@@ -62,7 +62,7 @@ namespace Table
             int[] value = new int[n * m];
             for (int i = 0; i < (n * m); i++)
             {
-                value[i] = random.Next(-100, 100);
+                value[i] = random.Next(-10000, 10000);
             }
 
             return value;
@@ -92,10 +92,12 @@ namespace Table
         {
             int count = width - word.ToString().Length;
             string str = string.Empty;
-            if (count == 1)
-                str = $"{word} ";
-            else if (count == 2)
-                str = $"{word}  ";
+            if (count != width)
+            {
+                str = $"{word}";
+                for (int i = 0; i < count; i++)
+                    str += ' ';
+            }
             else
                 str = $"{word}";
             return str;
