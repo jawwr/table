@@ -1,0 +1,16 @@
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\Table.exe
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\Table.deps.json
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\Table.runtimeconfig.json
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\Table.runtimeconfig.dev.json
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\Table.dll
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\ref\Table.dll
+Z:\test folder for trash code\prikol\it\teble\Table\bin\Debug\net5.0\Table.pdb
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.csproj.AssemblyReference.cache
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.AssemblyInfoInputs.cache
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.AssemblyInfo.cs
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.csproj.CoreCompileInputs.cache
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.dll
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\ref\Table.dll
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.pdb
+Z:\test folder for trash code\prikol\it\teble\Table\obj\Debug\net5.0\Table.genruntimeconfig.cache
